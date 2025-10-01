@@ -1,0 +1,63 @@
+# ==== SO/Editor ====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ==== Python ====
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# ==== Ultralytics / YOLO ====
+runs/
+datasets/
+weights/
+*.pt
+
+# ==== Node / React Native / Expo ====
+node_modules/
+.expo/
+.expo-shared/
+web-build/
+dist/
+.parcel-cache/
+.next/
+.turbo/
+expo-packager-cache-*
+metro-cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# se fizer prebuild nativo:
+android/
+ios/
+*.keystore
+
+# ==== Ambiente / Segredos ====
+.env
+.env.*
+!.env.example
+
+# ==== Mídias pesadas (ajuste conforme uso) ====
+samples/
+data/raw/
+recordings/
+captures/
+*.mp4
+*.avi
+*.mov
+*.mkv
