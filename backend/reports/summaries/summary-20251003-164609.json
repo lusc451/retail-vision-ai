@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-10-03T16:46:09.872842Z",
+  "period_start": "2025-10-03T16:45:09.847454Z",
+  "period_end": "2025-10-03T16:46:09.872842Z",
+  "total_cumulative": 138,
+  "total_minute": 138,
+  "cumulative_counts": {
+    "person": 108,
+    "bed": 23,
+    "cell phone": 5,
+    "toothbrush": 2
+  },
+  "minute_counts": {
+    "person": 108,
+    "bed": 23,
+    "cell phone": 5,
+    "toothbrush": 2
+  }
+}

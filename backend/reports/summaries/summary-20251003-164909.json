@@ -1,0 +1,34 @@
+{
+  "generated_at": "2025-10-03T16:49:09.902204Z",
+  "period_start": "2025-10-03T16:48:09.888333Z",
+  "period_end": "2025-10-03T16:49:09.902204Z",
+  "total_cumulative": 662,
+  "total_minute": 207,
+  "cumulative_counts": {
+    "person": 432,
+    "bed": 170,
+    "cell phone": 27,
+    "bottle": 7,
+    "chair": 5,
+    "suitcase": 5,
+    "remote": 4,
+    "teddy bear": 4,
+    "tie": 2,
+    "toothbrush": 2,
+    "book": 1,
+    "cat": 1,
+    "scissors": 1,
+    "toilet": 1
+  },
+  "minute_counts": {
+    "person": 101,
+    "bed": 83,
+    "cell phone": 6,
+    "chair": 5,
+    "suitcase": 5,
+    "teddy bear": 4,
+    "cat": 1,
+    "remote": 1,
+    "toilet": 1
+  }
+}
