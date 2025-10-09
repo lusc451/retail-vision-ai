@@ -1,0 +1,29 @@
+{
+  "generated_at": "2025-10-05T14:06:53.155363Z",
+  "period_start": "2025-10-05T14:05:53.034815Z",
+  "period_end": "2025-10-05T14:06:53.155363Z",
+  "total_cumulative": 278,
+  "total_minute": 278,
+  "cumulative_counts": {
+    "person": 90,
+    "person_age_unknown": 90,
+    "person_gender_unknown": 90,
+    "person_unique": 8
+  },
+  "minute_counts": {
+    "person": 90,
+    "person_age_unknown": 90,
+    "person_gender_unknown": 90,
+    "person_unique": 8
+  },
+  "people_attributes_snapshot": {
+    "gender_counts": {
+      "male": 0,
+      "female": 0,
+      "unknown": 8
+    },
+    "age_group_counts": {
+      "unknown": 8
+    }
+  }
+}
